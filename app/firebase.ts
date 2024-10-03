@@ -10,11 +10,11 @@ import { getDatabase } from "firebase/database";
 const firebaseConfig = {
   apiKey: "AIzaSyDZGS732gaNcva3jBRHE8te6E5mK9ZQ1VM",
   authDomain: "nosql-presentation-9a3fd.firebaseapp.com",
+  databaseURL: "https://nosql-presentation-9a3fd-default-rtdb.firebaseio.com",
   projectId: "nosql-presentation-9a3fd",
   storageBucket: "nosql-presentation-9a3fd.appspot.com",
   messagingSenderId: "329842318558",
   appId: "1:329842318558:web:fc6d32cc9a04f7cb9ff64f",
-  measurementId: "G-1RVXH5LCW8"
 };
 
 // Initialize Firebase

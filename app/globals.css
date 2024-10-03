@@ -2,3 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+body {
+  background-color: #f4ede5;
+}
+
+h1, h2, h3, h4 {
+  color: #9d6037;
+}
